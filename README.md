@@ -1,2 +1,2 @@
 # UTILS
-A repository for dealing with any utilities that deals with AI, ML and deep learning
+A repository for deals with collection of audio data for Audio <-> text or Audio <-> Audio conversion.
